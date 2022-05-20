@@ -1,1 +1,6 @@
-{}
+{
+  "scripts": {
+    "cypress:open": "cypress open",
+    "start": "http-server -p 8888 -c-1"
+  }
+}
